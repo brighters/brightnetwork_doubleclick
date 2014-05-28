@@ -1,0 +1,127 @@
+consulting
+Leaderboard_consulting
+MPU_consulting
+Trailer_consulting
+consulting.html
+
+banking and finance
+Leaderboard_banking_finance
+MPU_banking_finance
+Trailer_banking_finance
+banking_finance.html
+
+professional services	
+Leaderboard_professional_services	
+MPU_professional_services	
+Trailer_professional_services	
+professional_services.html
+
+technology	
+Leaderboard_technology	
+MPU_technology	
+Trailer_technology	
+technology.html
+
+entrepeneurship	
+Leaderboard_entrepeneurship	
+MPU_entrepeneurship	
+Trailer_entrepeneurship	
+entrepreneurship.html
+
+law	
+Leaderboard_law	
+MPU_law	
+Trailer_law	
+law.html
+
+consumer retail	
+Leaderboard_consumer_retail	
+MPU_consumer_retail	
+Trailer_consumer_retail	
+consumer_retail.html
+
+marketing_media	
+Leaderboard_marketing_media	
+MPU_marketing_media	
+Trailer_marketing_media	
+marketing_media.html
+
+charity_public_sector	
+Leaderboard_charity_public_sector	
+MPU_charity_public_sector	
+Trailer_charity_public_sector	
+charity_public_sector.html
+				
+Search results	
+Leaderboard_search	
+MPU_search		
+search.html
+				
+Blog landing page	
+Leaderboard_blog	
+Trailer_blog		
+blog.html
+
+Blog article page	
+Leaderboard_blog	
+Trailer_blog		
+blog.html
+				
+Home page	
+Leaderboard_home			
+home.html
+				
+Events landing page	
+Leaderboard_events	
+Trailer_events		
+events_landing.html
+
+Event page	
+Leaderboard_events	
+MPU_events	
+Trailer_events	
+single_event_page.html
+				
+For employers page	
+Leaderboard_miscellaneous	
+Trailer_miscellaneous		
+misc1.html
+
+About us	
+Leaderboard_miscellaneous	
+Trailer_miscellaneous		
+misc1.html
+
+Signup	
+Leaderboard_miscellaneous	
+MPU_miscellaneous		
+signup.html
+
+Profiles and preferences	
+Leaderboard_miscellaneous	
+MPU_miscellaneous	
+Trailer_miscellaneous	
+misc2.html
+				
+Companies landing page	
+Leaderboard_companies	
+MPU_companies	
+Trailer_companies	
+companies.html
+
+Single paid company page	
+----- No advertising -----	
+----- No advertising -----	
+----- No advertising -----	
+				
+Jobs landing page	
+Leaderboard_jobs	
+MPU_jobs	
+Trailer_jobs	
+jobs_landing.html
+
+Single job page	
+Leaderboard_jobs	
+MPU_jobs	
+Trailer_jobs	
+jobs_landing.html
