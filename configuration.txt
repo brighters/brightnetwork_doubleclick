@@ -73,6 +73,7 @@ home.html
 				
 Events landing page	
 Leaderboard_events	
+MPU_events
 Trailer_events		
 events_landing.html
 
