@@ -129,11 +129,12 @@ jobs_landing.html
 
 Advice landing page
 Leaderboard_advice
+MPU_advice
 Trailer_advice
 advice_landing.html
 
 Advice article page
 Leaderboard_advice
-Leaderboard_advice
+MPU_advice
 Trailer_advice
 advice_article.html
