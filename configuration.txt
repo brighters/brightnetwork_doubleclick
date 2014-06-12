@@ -126,3 +126,14 @@ Leaderboard_jobs
 MPU_jobs	
 Trailer_jobs	
 jobs_landing.html
+
+Advice landing page
+Leaderboard_advice
+Trailer_advice
+advice_landing.html
+
+Advice article page
+Leaderboard_advice
+Leaderboard_advice
+Trailer_advice
+advice_article.html
