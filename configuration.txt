@@ -68,7 +68,9 @@ Trailer_blog
 blog.html
 				
 Home page	
-Leaderboard_home			
+Leaderboard_home	
+MPU_home
+Trailer_home		
 home.html
 				
 Events landing page	
